@@ -1,0 +1,6 @@
+selenium
+selenium_stealth
+beautifulsoup4
+sqlalchemy
+psutil
+Cloudscraper
